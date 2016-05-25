@@ -6,7 +6,7 @@ regarding Tensorflow, most of which I have not uploaded here, as I
 don't believe it's of interest now.
 
 ###############################
-#### General / theoretical ####
+#### General / theoretical
 ###############################
 
 * YUV (colormap)
@@ -20,30 +20,39 @@ don't believe it's of interest now.
 
 
 ###############################
-######## CNN related ##########
+#### CNN related
 ###############################
 
 * Efficient Convolutional Neural Networks for Pixelwise Classification on Heterogeneous Hardware Systems
+
   http://arxiv.org/pdf/1509.03371.pdf
+  
   Took from here the idea of reflection padding of images (p. 9)
+  
 * CS231n Convolutional Neural Networks for Visual Recognition
+  
   http://cs231n.github.io/neural-networks-1/
 
 
 ###############################
-#### Tensorflow related #######
+#### Tensorflow related
 ###############################
 
 * TensorFlow-Examples
+  
   https://github.com/aymericdamien/TensorFlow-Examples
+  
   Examples of code on 'familiar' datasets
 
 
 ###############################
-###### misc & unsorted ########
+#### Misc & unsorted
 ###############################
 
 * Computer assisted image analysis I (Swede university course)
+  
   http://www.it.uu.se/edu/course/homepage/bild1/ht15
+  
   http://www.it.uu.se/edu/course/homepage/bild1/ht15/L8_classification.pdf
+  
   Probably not so informative
